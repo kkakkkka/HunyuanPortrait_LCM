@@ -62,8 +62,8 @@ https://github.com/user-attachments/assets/bdd4c1db-ed90-4a24-a3c6-3ea0b436c227
 
 - [X] The inference code, config and checkpoints
 - [X] Gradio demo
-- [ ] The LCM training code for real-time generation
-- [ ] The LORA training code for customize portrait generation
+- [X] The LCM training code for real-time generation
+- [X] The LORA training code for customize portrait generation
 
 ## 📜 Requirements
 
